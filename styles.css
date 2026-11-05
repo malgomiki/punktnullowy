@@ -1,0 +1,12 @@
+body {
+    font-family: system-ui, sans-serif;
+    padding: 3.25em;
+    color: black;
+    background-color: #27275c; /*for browsers that don't support gradients*/
+    background-image: linear-gradient(135deg, #e4fbff, #6090cb, #332362);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
